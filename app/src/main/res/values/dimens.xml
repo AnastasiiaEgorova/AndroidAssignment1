@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="margin_textView_buttons">64dp</dimen>
+    <dimen name="button_padding_big" />
+    <dimen name="button_padding_big2">24</dimen>
+</resources>
